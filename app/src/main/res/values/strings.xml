@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RadiancePlay</string>
+    <string name="app_tagline">Switch Games Natively On Your Device</string>
+    <string name="welcome_title">Hello, Gamer!</string>
+    <string name="welcome_subtitle">Welcome to RadiancePlay</string>
+    <string name="welcome_desc">Discover and download your favorite Switch games with fast downloads and run natively on your device.</string>
+    <string name="status_engine_ready">READY</string>
+    <string name="status_system_ready">System: Ready</string>
+    <string name="verify_environment">Check Status</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_games_hint">Search games…</string>
+    <string name="explore_games">Explore Catalog</string>
+    <string name="catalog_title">Game Catalog</string>
+    <string name="catalog_subtitle">Browse available titles</string>
+    <string name="refresh">Refresh</string>
+    <string name="retry">Retry</string>
+    <string name="download">Download</string>
+    <string name="download_zip">Download</string>
+    <string name="game_details">Game Details</string>
+    <string name="close">Close</string>
+</resources>

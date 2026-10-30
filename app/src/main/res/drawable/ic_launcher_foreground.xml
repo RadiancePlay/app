@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glow effect ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3300F5D4"
+        android:strokeWidth="4"
+        android:pathData="M 54,26 A 28,28 0 1,1 53.9,26 Z" />
+
+    <!-- Main Gamepad Body -->
+    <path
+        android:fillColor="#17233D"
+        android:strokeColor="#00F5D4"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="round"
+        android:pathData="M38,40 C34,40 30,44 29,51 C27,62 31,73 37,73 C41,73 44,68 47,64 C51,60 57,60 61,64 C64,68 67,73 71,73 C77,73 81,62 79,51 C78,44 74,40 70,40 Z" />
+
+    <!-- D-Pad (Left) -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M40,51 h-3 v-3 h-2 v3 h-3 v2 h3 v3 h2 v-3 h3 z" />
+
+    <!-- Action Buttons (Right) -->
+    <path
+        android:fillColor="#F72585"
+        android:pathData="M70,49 a2,2 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#7209B7"
+        android:pathData="M66,53 a2,2 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M74,53 a2,2 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#4CC9F0"
+        android:pathData="M70,57 a2,2 0 1,0 0.01,0 Z" />
+
+    <!-- Central Radiance Play Accent -->
+    <path
+        android:fillColor="#F72585"
+        android:pathData="M52,49 L58,53 L52,57 Z" />
+</vector>
